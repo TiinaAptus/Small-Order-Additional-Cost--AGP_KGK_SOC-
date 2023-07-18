@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Small Order Additional Cost [AGP_KGK_SOC]">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1415671127 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AGP_KGK_SOC_OrderFeeShpmnt - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1415671127 - Field 185076033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AGP_KGK_SOC_OrderFeeShpmnt - Field Resource Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1415671127 - Field 2205104606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AGP_KGK_SOC_OrderFeeShpmnt - Field Shipment Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1415671127 - Field 2955841705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Small Order Fee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AGP_KGK_SOC_OrderFeeShpmnt - Field Small Order Fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1415671127 - Field 1604219970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AGP_KGK_SOC_OrderFeeShpmnt - Field Transport Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2358745737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Väikese tellimuse teenustasu lähetusviisid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Fee Shipment Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2358745737 - NamedType 3474386738" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teil ei ole õigust kirjet (asukoht, lähetusviisi tähis) muuta.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Fee Shipment Method - NamedType NoOrderManagerLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3957744602 - Control 2902589134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Tellimuse lisatasu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AGP_KGK_SOC_SalesReceSetupExt - Control Tellimuse lisatasu - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3957744602 - Control 593778417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Asukoht, lähetusviisitähis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AGP_KGK_SOC_SalesReceSetupExt - Control ShippmentMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3957744602 - Control 4164003044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Piirmäär, lisatakse sellest väiksemale </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AGP_KGK_SOC_SalesReceSetupExt - Control WEB Order Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2791520663 - Control 912046139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Ära arvesta transporditasu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AGP_KON_SOC_CustomerCardExt - Control NO WEB Order Fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2049948642 - Field 3653835862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Is Transport Row</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOC_SalesLineExt - Field AGP_KGK_SOC_IsTransportRow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2049948642 - Field 1853884569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Bin Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOC_SalesLineExt - Field Bin Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2049948642 - Field 3485464407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Item Qty. on Whse. Ship Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOC_SalesLineExt - Field Item Qty. on Whse. Ship Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2049948642 - Field 3744117490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Shipping Advice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOC_SalesLineExt - Field Shipping Advice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2049948642 - Field 1743528997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Whse. Ship. Exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOC_SalesLineExt - Field Whse. Ship. Exists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3523370256 - Field 483027328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Koondarve tüüp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOP_SalesHeaderExt - Field Invoice Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3523370256 - Field 483027328 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source> ,päeva arve,nädala arve,kahe nädala arve,kuu arve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AGP_KGK_SOP_SalesHeaderExt - Field Invoice Period - Property OptionCaption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

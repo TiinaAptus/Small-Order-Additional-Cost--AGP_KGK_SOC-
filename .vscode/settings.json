@@ -1,0 +1,12 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": 
+    [
+       /* "${AppSourceCop}", */
+        "${CodeCop}",
+        "${PerTenantExtensionCop}",
+        "${UICop}"
+    ],
+        "al.ruleSetPath": ".vscode\\ruleset.json"
+        
+}

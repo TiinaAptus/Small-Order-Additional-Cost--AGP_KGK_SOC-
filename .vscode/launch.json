@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TERMINAL",
+            "type": "al",
+            "request": "launch",
+            "server": "http://nav.aptus.ee",
+            "port": 21649,
+            "serverInstance": "DEVKGK210",
+            "authentication": "Windows",
+            "breakOnError": true,
+            "breakOnRecordWrite": false,
+            "startupObjectType": "Page",
+            "startupObjectId": 1,
+            "schemaUpdateMode": "ForceSync"
+        }    
+    ]
+}

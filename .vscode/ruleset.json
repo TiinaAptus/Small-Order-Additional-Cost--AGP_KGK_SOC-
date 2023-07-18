@@ -1,0 +1,33 @@
+{
+    "name": "AGP_SCN rules",
+    "description": "Project specific ruleset",
+    "includedRulesets": [
+        {
+            "action": "Default",
+            "path": "U:\\Rulesets\\Aptus.json"
+        }
+    ],
+    "rules": [
+        {
+            "id": "AS0015",
+            "action": "None",
+            "justification": "TranslateFile not required for this project"
+        },        
+        {
+            "id": "PTE0005",
+            "action": "None",
+            "justification": "This is an OnPremise application"
+        },
+        {
+            "id": "AA0210",
+            "action": "None",
+            "justification": "Complains about base app keys"           
+        },
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "Tooltips don't exist originally"           
+        }
+
+    ]
+}

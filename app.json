@@ -1,0 +1,45 @@
+{
+  "id": "22cccae9-48f0-45f1-8161-9f2914ba6906",
+  "name": "Small Order Additional Cost [AGP_KGK_SOC]",
+  "publisher": "Aptus Group OÜ",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Resources/logo/aptus_box.png",
+  "dependencies": [    
+    {
+      "id": "37c35b71-04de-4100-aaae-47295d90b8e7",
+      "name": "Database Tables & Fields [AGP_KGK_DTF]",
+      "publisher": "Aptus Group OÜ",
+      "version": "1.0.1.3"
+    },
+    {
+      "id": "19073c8c-2fd3-43b2-b975-2053fe548319",
+      "name": "VAT Reporting localization for Estonia",
+      "publisher": "Estonian Dynamics Partners",
+      "version": "16.0.23037.0"
+    },
+    {
+      "id": "7e4da6f9-7508-41be-bb67-0989d36a2594",
+      "name": "Knutsson System Functions [AGP_KGK_SYS]",
+      "publisher": "Aptus Group OÜ",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "runtime": "10.0",
+  "target": "Cloud"
+}
